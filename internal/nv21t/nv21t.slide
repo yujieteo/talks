@@ -1,0 +1,24 @@
+Navi 21 Modelling Tutorial
+
+23 January 2023
+
+Teo Yu Jie
+Intern, Advanced Micro Devices
+yujieteo@amd.com
+
+* Outline
+
+We first want to look at
+examples of extrusion and
+material property definitions.
+
+* Conclusion
+
+Partition extrusion from a flat
+base is a good start to modelling.
+
+Symmetry considerations is very
+important.
+
+* References
+.link https://teoyujie.org/apdl/
